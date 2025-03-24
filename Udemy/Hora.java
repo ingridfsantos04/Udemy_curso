@@ -2,7 +2,7 @@ package Udemy;
 
 import java.util.Scanner;
 
-public class Condicao {
+public class Hora {
     public static void amin (String[]args) {
 
         Scanner sc = new Scanner(System.in);
