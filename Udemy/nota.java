@@ -16,7 +16,7 @@ public class nota {
         double segundo = sc.nextDouble();
 
         double anual = primeiro + segundo;
-        System.out.println("Nota final: " + anual);
+        System.out.println("Nota final: %.1f%n" + anual);
 
 
         sc.close();
