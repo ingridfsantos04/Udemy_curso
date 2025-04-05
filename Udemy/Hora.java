@@ -23,7 +23,7 @@ public class Hora {
                 System.out.println("Boa Noite ");
             }
             
-
+            sc.close();
         }
     }
     

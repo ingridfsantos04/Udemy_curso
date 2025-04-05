@@ -33,7 +33,7 @@ public class semana {
         else {
             dia = "Valor invalido";
         }
-    
+        System.out.println("Dia da semana" + dia);
         sc.close();
     }
 }
